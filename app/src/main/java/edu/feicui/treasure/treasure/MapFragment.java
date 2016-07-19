@@ -112,6 +112,7 @@ public class MapFragment extends Fragment {
             baiduMap.setMyLocationData(myLocationData);
             // 移动到当前位置上去
             animateMovetoMyLocation();
+
         }
     };
 
